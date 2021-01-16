@@ -1,0 +1,7 @@
+.card-text{
+    font-family: "Trebuchet MS";
+    font-weight: 600;
+    margin-top: 30px;
+    color:rgb(54, 64, 67);
+    text-shadow: 1px 1px gray;
+}
